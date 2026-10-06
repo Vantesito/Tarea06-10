@@ -1,4 +1,4 @@
-package com.EjercicioAyudantia.ISoft;
+package com.EjercicioAyudantia.ISoft.model;
 
 public class Task {
     private String id;
